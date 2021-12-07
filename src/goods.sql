@@ -32,7 +32,7 @@ CREATE TABLE `address`  (
 -- ----------------------------
 -- Records of address
 -- ----------------------------
-INSERT INTO `address` VALUES ('00001', '广东', '汕头');
+INSERT INTO `address` VALUES ('00001', '广东', '广州');
 INSERT INTO `address` VALUES ('2222', '广东', '广州');
 
 -- ----------------------------
