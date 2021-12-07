@@ -2,9 +2,13 @@
 李凯洲 201930341496 
 
 该网站采用的是MVC模式开发的网站，代码内部逻辑比较清晰，模块之间耦合度低。 
+
 开发环境：JDK 1.16.0.2， Tomcat 9.0.54， mysql-8.0.27-winx64 
+
 开发工具：IDEA，jquery-1.5.1，c3p0-0.9.2, commons-dbutils-1.4等
+
 注：改项目所需要的jar包请到百度网盘中下载：
+
 链接: https://pan.baidu.com/s/1uGwkZEWo8vhG4pUukJrtsg 提取码: 86sk 
 
 1.系统设计：
