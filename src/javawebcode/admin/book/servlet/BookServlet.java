@@ -66,7 +66,7 @@ public class BookServlet extends BaseServlet {
         return "f:/adminjsps/msg.jsp";
     }
     /**
-     * 查询所有分类，放回一级分类
+     * 查询所有分类，返回一级分类
      * @param req
      * @param resp
      * @return
