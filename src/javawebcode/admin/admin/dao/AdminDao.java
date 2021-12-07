@@ -10,7 +10,7 @@ import java.sql.SQLException;
 public class AdminDao {
     private QueryRunner que = new TxQueryRunner();
 
-    /**
+    /**.
      * 通过用户名和密码查询用户
      * @param admin
      * @return
