@@ -7,7 +7,7 @@
 
 开发工具：IDEA，jquery-1.5.1，c3p0-0.9.2, commons-dbutils-1.4等
 
-注：改项目所需要的jar包请到百度网盘中下载：
+注：该项目所需要的jar包请到百度网盘中下载：
 
 链接: https://pan.baidu.com/s/1uGwkZEWo8vhG4pUukJrtsg 提取码: 86sk 
 
